@@ -3,11 +3,11 @@ Analysis and evaluate the quality of red-wine
 
 Source: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
 
-**Abstract**
+## Abstract
 
 Providing a rating table for red wine and uses machine learning algorithms to identify the quality of wine.
 
-**Steps**
+## Steps
 
 Data visualization by seaborn, matplotlib, plotly
 
